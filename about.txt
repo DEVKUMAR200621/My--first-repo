@@ -1,0 +1,3 @@
+Name : KANCHARLA DEVA KUMAR 
+Course : 3rd BSC Data Science 
+one thing  i learned about GitHub : we can store our code and our project detalis and files in our GitHub account 
